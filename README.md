@@ -1,6 +1,6 @@
 <div align = "center" >
-### Pedro H. Paes
-#### Bacharel em formação em Ciência da Computação
+  <h2>Pedro H. Paes</h2>
+  <h4>Bacharel em formação em Ciência da Computação</h4>
 ![Bacharel em formação em Ciência da Computação](https://raw.githubusercontent.com/PdrPaes/PdrPaes/main/capa.png)
 
 O investimento no futuro é a chave para o Sucesso! Tendo isto em vista, constantemente busco adquirir novos conhecimentos através dos meus estudos. Atualmente, estou cursando, além da faculdade de Ciência da Computação, dois cursos de Web-Avançados através da plataforma Udemy.
