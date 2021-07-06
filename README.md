@@ -1,3 +1,4 @@
+<div align = "center" >
 ### Pedro H. Paes
 #### Bacharel em formação em Ciência da Computação
 ![Bacharel em formação em Ciência da Computação](https://raw.githubusercontent.com/PdrPaes/PdrPaes/main/capa.png)
@@ -12,11 +13,5 @@ Skills: JS / HTML / CSS / MySQL / Pacote Adobe /
 
 ![Profile views](https://gpvc.arturio.dev/PdrPaes)  
 
-<div align = "center" >
-  
-  <a href="https://github.com/alofrrr">
-  <img  height="150" src="https://github-readme-stats.vercel.app/api?username=PdrPaes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrPaes&layout=compact&langs_count=16&theme=omni"/>
+</div>
 
-    
-![Snake animation](https://github.com/PdrPaes/PdrPaes/blob/output/github-contribution-grid-snake.svg)
