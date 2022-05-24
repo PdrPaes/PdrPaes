@@ -19,9 +19,6 @@
 <h3 align="center">Contato:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pedrohenriquepaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrohenriquepaes" height="30" width="40" /></a>
-<a href="https://instagram.com/paes.pedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paes.pedro" height="30" width="40" /></a>
-<a href="https://discord.gg/PdrPaes#0404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PdrPaes#0404" height="30" width="40" /></a>
-</p>
   
 ![Profile views](https://gpvc.arturio.dev/PdrPaes)  
 
