@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Paes</h1>
-<h3 align="center">Bacharel em formação em Ciência da Computação</h3>
+<h3 align="center">Bacharel em Ciência da Computação</h3>
 <h4 align="center">O investimento no futuro é a chave para o Sucesso! Tendo isto em vista, constantemente busco adquirir novos conhecimentos através dos meus estudos.</h4>
 
 <h3 align="center">Foco Operacional no momento:</h3>
